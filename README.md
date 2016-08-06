@@ -5,9 +5,9 @@ generate a cleaner and accurate map. The parameters are located at
 SPARbot/turtlebot_navigation/launch/includes/gmapping.launch
 
 ## Map generated BEFORE modifying the parameters
-![alt tag](https://github.com/SPARbot/turtlebot_navigation/before_mod.png)
+![alt tag](https://github.com/SPARbot/turtlebot_navigation/blob/master/before_mod.png)
 
 ## Map generated AFTER modifiying the parameters
-![alt tag](https://github.com/SPARbot/turtlebot_navigation/after_mod.png)
+![alt tag](https://github.com/SPARbot/turtlebot_navigation/blob/master/after_mod.png)
 
 

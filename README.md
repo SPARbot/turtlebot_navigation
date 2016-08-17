@@ -7,7 +7,7 @@ SPARbot/turtlebot_navigation/launch/includes/gmapping.launch
 •	maxUrange = 5.5 
 The maximum usable range of the laser in which the beam is clipped to this value.
 
-•	maxRange = 5.4  
+•	maxRange = 5.4 
 The maximum range of the sensor. The value is set less than maxUrange to show free space in the map, in regions with no obstacle within the range of the sensor.
 
 •	minimumScore = 50 
